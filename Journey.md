@@ -28,7 +28,18 @@ as it requires charging in order to connect and play music.
 Passive antennas are radio antennas that dont have any power of their own, rely on other devices to send waves that induces enough energy  
 in their radio antenna that they can reflect waves back.  
 An example of this is a NFC card such as a hotel card or a credit card. They require no power however when they come into contact  
-with a reader they recieve enough power to recieve and send back waves of information.  
+with a reader they recieve enough power to recieve and send back waves of information.  Polarization, gain, directivity, resonance, and bandwith are all the same in a passive antenna whether transmitting or recieving.
 &nbsp;  
+&nbsp;&nbsp;&nbsp;Day 3: Continue Radio Antenna theory  
+Polarization: Orientation of signals recieved and transmitted by an antenna. Most common are vertical and horizontal. 
+<img width="690" height="313" alt="image" src="https://github.com/user-attachments/assets/b1761600-a409-47ac-b6d0-66f92be0d63c" />
+A antenna with a vertical polarization would need vertical elements to boost signal. EX. 
+<img width="402" height="409" alt="image" src="https://github.com/user-attachments/assets/4b263b25-5d0d-4159-a4d1-5071f98e3df8" />
+Mismatched elements with polarization siginificantly decreases signal.
+Eliptical or curved polarization is mainly used on antennas that don't need a specific orientation, however elements must still match the rotation.
+Used in Satellites, GPS, and some Drone systems. 
+Mobile devices use multiple antennas with different polarization, while Bluetooth devices use antennas that radiate in many directions  
+so the connection stays stable.
+
 
 
