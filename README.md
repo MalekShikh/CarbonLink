@@ -1,5 +1,5 @@
 # CarbonLink
-Improved, secure Bluetooth project. Tries to eliminate issues and vulnerabilities of modern-day bluetooth
+Connection project
 
 @ 2025 MalekShikh
 Licensed under CC BY-NC-SA 4.0
